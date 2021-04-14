@@ -30,7 +30,7 @@ img {
   margin: 0 auto;
   margin-top: 2rem;
   text-align: center;
-  background-color: rgba(153, 151, 151, 0.25);
+  background-color: rgba(153, 151, 151, 0.10);
   padding: 1.2rem;
 }
 
@@ -45,7 +45,7 @@ img {
 }
 
 #tribute-footer {
-  background-color: #000;
+  background-color: #11760F;
   color: whitesmoke;
   text-align: center;
   width: 100%;
@@ -53,10 +53,10 @@ img {
 }
 
 #tribute-footer a {
-  color:#B60609;
+  color:#000;
 }
 
 #tribute-footer a:hover {
-  color:#11760F;
+  color:rgba(0, 0, 0, 0.50);
   text-decoration: none;
 }
